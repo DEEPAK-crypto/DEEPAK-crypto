@@ -1,4 +1,4 @@
-![ Hi there, It's me Deepak👋](https://github.com/DEEPAK-crypto/DEEPAK-crypto/raw/master/assets/intro.gif)
+![ Hi there, It's me Deepak👋](https://github.com/DEEPAK-crypto/DEEPAK-crypto/raw/master/assets/intro2.gif)
 
 <!--
 **DEEPAK-crypto/DEEPAK-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
