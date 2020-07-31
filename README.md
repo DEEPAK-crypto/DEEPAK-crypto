@@ -4,6 +4,7 @@
 **DEEPAK-crypto/DEEPAK-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+## ⚡ Technologies
 <p>
 <img alt="HTML" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
@@ -30,6 +31,6 @@ Here are some ideas to get you started: -->
    &nbsp
    
    
-<img alt="HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-crypto" />
+<img alt="HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-crypto&layout=compact" />
 </p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
