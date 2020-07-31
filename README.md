@@ -1,4 +1,4 @@
-![ Hi there, It's me Deepak👋](https://github.com/DEEPAK-crypto/DEEPAK-crypto/raw/master/assets/intro_1.gif)
+![ Hi there, It's me Deepak👋](https://github.com/DEEPAK-crypto/DEEPAK-crypto/raw/master/assets/intro_.gif)
 
 <!--
 **DEEPAK-crypto/DEEPAK-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +27,10 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: <img alt="gmail" src="https://img.shields.io/badge/-DeepsDeep45@gmail.com-575757?style=flat-square&logo=gmail" />
  
 
-<p align="center"><img alt="HTML" src="https://github-readme-stats.vercel.app/api?username=DEEPAK-crypto&hide=issues,prs&show_icons=true" />&nbsp&nbsp
-   &nbsp
+![Stats](https://github-readme-stats.vercel.app/api?username=DEEPAK-crypto&hide=issues,prs&show_icons=true) 
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-crypto&layout=compact)
    
    
-<img alt="HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-crypto&layout=compact" />
 </p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
