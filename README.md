@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 
 
 - 🌱 I’m currently learning Full Stack Web Development.
-- 🤔 I’m looking for help with .
+- 🤔 I’m looking for help with React.
 - 💬 Ask me about Star Wars😎.
 - 🎓 Pursuing B.Tech in Computer Science and Engineering
 - 📫 How to reach me: <img alt="gmail" src="https://img.shields.io/badge/-DeepsDeep45@gmail.com-575757?style=flat-square&logo=gmail" />
