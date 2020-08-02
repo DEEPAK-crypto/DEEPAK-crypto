@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: <img alt="gmail" src="https://img.shields.io/badge/-DeepsDeep45@gmail.com-575757?style=flat-square&logo=gmail" />
  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DEEPAK-crypto&hide=issues,prs&show_icons=true) 
+![Stats](https://github-readme-stats.vercel.app/api?username=DEEPAK-crypto&count_private=true&hide=issues,prs&show_icons=true) 
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAK-crypto&layout=compact)
    
